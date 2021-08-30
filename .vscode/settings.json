@@ -1,0 +1,12 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.settings.useSplitJSON": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#700527",
+        "titleBar.inactiveBackground": "#740729cc"
+      },
+}
